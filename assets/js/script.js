@@ -13,7 +13,7 @@ function startSchedule(){
 //function that loops through each time block//
   timeBlocks.each(function(){
     var thisBlock = $(this);
-    var thisBlockHr = parseInt($thisBlock.attr("data-hour"));
+    var thisBlockHr = parseInt(thisBlock.attr("data-hour"));
 
     var todoObj = {
       hour: thisBlockHr,
