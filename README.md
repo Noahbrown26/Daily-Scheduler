@@ -1,4 +1,4 @@
-# There is currently an issue with the deployed application. When run on my local client the application works fine and the JavaScript executes perfectly. If you clone the files to your local client it will work as intended as well. However when i push the same exact code to github, the deployed application will not execute some of the JavaScript functions i.e (loading current date and executing the savehandler to local storage).
+# There is currently a strange issue occuring with my webpage using microsoft edge. When i run it on my local client it works just fine and the code executes perfectly. When you clone the code from the repo it works perfectly as well. However when i go to the deployed application on github pages using microsoft edge the page does not run correctly. When i go to the deployed application on a different browser it works fine. 
 
 
 
